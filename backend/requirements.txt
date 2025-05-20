@@ -1,3 +1,4 @@
 django
+mysqlclient
 djangorestframework
 drf_spectacular
